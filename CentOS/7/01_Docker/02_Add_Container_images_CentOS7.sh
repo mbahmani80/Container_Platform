@@ -27,3 +27,8 @@ sha256:6adb1438d24f7f1f55438f9ff86d67b78f05ccee8bca7464247473aa588691be
 # Generate a Container from the new image and execute [which] to make sure nginx exists
 [root@docker1:~]# docker run itstorage.net/centos-nginx /usr/bin/whereis nginx
 
+#-----------------------------------------------------------------------
+# Reference
+https://www.howtoforge.com/tutorial/monitoring-of-a-ceph-cluster-with-ceph-dash/
+https://www.server-world.info/
+https://docs.ceph.com/en/mimic/mgr/dashboard/

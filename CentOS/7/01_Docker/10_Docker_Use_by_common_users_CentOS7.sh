@@ -70,3 +70,9 @@ docker: Error response from daemon: driver failed programming external connectiv
 [bahmani@docker1 ~]$ docker ps
 CONTAINER ID   IMAGE                    COMMAND                  CREATED          STATUS        PORTS                                   NAMES
 210870d6b13a   itstorage.net/centos-nginx   "/usr/sbin/nginx -g …"   10 seconds ago   Up 1 second   0.0.0.0:1024->80/tcp, :::1024->80/tcp   charming_wilson
+
+#-----------------------------------------------------------------------
+# Reference
+https://www.howtoforge.com/tutorial/monitoring-of-a-ceph-cluster-with-ceph-dash/
+https://www.server-world.info/
+https://docs.ceph.com/en/mimic/mgr/dashboard/

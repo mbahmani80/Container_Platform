@@ -284,3 +284,9 @@ Login Succeeded
 [root@docker1 ~]# docker images
 REPOSITORY                 TAG           IMAGE ID       CREATED       SIZE
 masternode1.itstorage.net:5000/nginx   my-registry   62d49f9bab67   4 weeks ago   133MB
+
+#-----------------------------------------------------------------------
+# Reference
+https://www.howtoforge.com/tutorial/monitoring-of-a-ceph-cluster-with-ceph-dash/
+https://www.server-world.info/
+https://docs.ceph.com/en/mimic/mgr/dashboard/

@@ -25,3 +25,9 @@ a8e3bfc7253f   itstorage.net/centos-nginx   "/usr/sbin/nginx -g …"   10 second
 # verify it works normally
 [root@docker1:~]# curl localhost:8081
 Nginx on Docker Container
+
+#-----------------------------------------------------------------------
+# Reference
+https://www.howtoforge.com/tutorial/monitoring-of-a-ceph-cluster-with-ceph-dash/
+https://www.server-world.info/
+https://docs.ceph.com/en/mimic/mgr/dashboard/

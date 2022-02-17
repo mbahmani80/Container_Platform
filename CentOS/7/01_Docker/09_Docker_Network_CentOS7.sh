@@ -154,3 +154,10 @@ LISTEN     0      128       [::]:80                    [::]:*                   
 
 [root@docker1 ~]# curl localhost
 Index.html on Aapche httpd
+
+
+#-----------------------------------------------------------------------
+# Reference
+https://www.howtoforge.com/tutorial/monitoring-of-a-ceph-cluster-with-ceph-dash/
+https://www.server-world.info/
+https://docs.ceph.com/en/mimic/mgr/dashboard/

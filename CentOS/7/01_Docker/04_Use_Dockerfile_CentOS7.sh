@@ -80,3 +80,9 @@ VOLUME			It creates a mount point with the specified name and marks it as holdin
 
 USER			It sets the user name or UID.
 WORKDIR			It sets the working directory.
+
+#-----------------------------------------------------------------------
+# Reference
+https://www.howtoforge.com/tutorial/monitoring-of-a-ceph-cluster-with-ceph-dash/
+https://www.server-world.info/
+https://docs.ceph.com/en/mimic/mgr/dashboard/

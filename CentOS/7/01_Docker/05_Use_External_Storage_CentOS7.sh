@@ -77,3 +77,9 @@ Error response from daemon: remove volume01: volume is in use - [405c1c283bc2e8d
 [root@docker1:~]# docker rm 2891a2fd78232b80fce78aaa38531abc24c926496a3c0
 [root@docker1:~]# docker volume rm volume01
 volume01
+
+#-----------------------------------------------------------------------
+# Reference
+https://www.howtoforge.com/tutorial/monitoring-of-a-ceph-cluster-with-ceph-dash/
+https://www.server-world.info/
+https://docs.ceph.com/en/mimic/mgr/dashboard/

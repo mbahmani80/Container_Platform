@@ -134,3 +134,10 @@ root_web_1   /usr/sbin/nginx -g daemon off;   Up       0.0.0.0:80->80/tcp,:::80-
 Going to remove root_db_1
 Are you sure? [yN] y
 Removing root_db_1 ... done
+
+
+#-----------------------------------------------------------------------
+# Reference
+https://www.howtoforge.com/tutorial/monitoring-of-a-ceph-cluster-with-ceph-dash/
+https://www.server-world.info/
+https://docs.ceph.com/en/mimic/mgr/dashboard/

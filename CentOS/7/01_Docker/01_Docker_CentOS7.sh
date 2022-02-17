@@ -70,3 +70,8 @@ CONTAINER ID   IMAGE     COMMAND       CREATED         STATUS         PORTS     
 [root@masternode1:~]# docker run centos /bin/echo "Welcome to the Docker World"
 Welcome to the Docker World
 #---------------------------------
+
+# Reference
+https://www.howtoforge.com/tutorial/monitoring-of-a-ceph-cluster-with-ceph-dash/
+https://www.server-world.info/
+https://docs.ceph.com/en/mimic/mgr/dashboard/
