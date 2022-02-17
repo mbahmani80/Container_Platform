@@ -86,3 +86,8 @@ Filesystem      Type  Size  Used Avail Use% Mounted on
 :/home/nfsshare nfs4   26G  1.6G   25G   7% /nfsshare
 
 
+#-----------------------------------------------------------------------
+# Reference
+https://www.howtoforge.com/tutorial/monitoring-of-a-ceph-cluster-with-ceph-dash/
+https://www.server-world.info/
+https://docs.ceph.com/en/mimic/mgr/dashboard/
