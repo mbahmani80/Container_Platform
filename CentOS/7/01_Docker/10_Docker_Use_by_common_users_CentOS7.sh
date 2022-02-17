@@ -54,7 +54,6 @@ drwx------. 3 cent cent  17 May 24 13:41 image
 drwxr-x---. 3 cent cent  19 May 24 13:41 network
 drwx------. 4 cent cent  32 May 24 13:41 plugins
 drwx------. 2 cent cent   6 May 24 13:41 runtimes
-drwx------. 2 cent cent   6 May 24 13:41 swarm
 drwx------. 2 cent cent   6 May 24 13:42 tmp
 drwx------. 2 cent cent   6 May 24 13:41 trust
 drwx-----x. 3 cent cent  17 May 24 13:42 vfs
@@ -69,7 +68,7 @@ docker: Error response from daemon: driver failed programming external connectiv
 [bahmani@docker1 ~]$ docker run -t -d -p 1024:80 itstorage.net/centos-nginx /usr/sbin/nginx -g "daemon off;"
 [bahmani@docker1 ~]$ docker ps
 CONTAINER ID   IMAGE                    COMMAND                  CREATED          STATUS        PORTS                                   NAMES
-210870d6b13a   itstorage.net/centos-nginx   "/usr/sbin/nginx -g …"   10 seconds ago   Up 1 second   0.0.0.0:1024->80/tcp, :::1024->80/tcp   charming_wilson
+210870d6b13a   itstorage.net/centos-nginx   "/usr/sbin/nginx -g …"   10 seconds ago   Up 1 second   0.0.0.0:1024->80/tcp, :::1024->80/tcp   charming
 
 #-----------------------------------------------------------------------
 # Reference
